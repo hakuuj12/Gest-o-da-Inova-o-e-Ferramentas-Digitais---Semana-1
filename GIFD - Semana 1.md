@@ -216,7 +216,8 @@ Digitalização -> Decepção -> Disrupção -> Desmonetização -> Desmateriali
 
     
 
-<img src="file:///C:/Users/vinic/AppData/Roaming/marktext/images/2026-02-24-00-03-29-image.png" title="" alt="" width="758">
+<img width="1587" height="763" alt="2026-02-24-00-03-29-image" src="https://github.com/user-attachments/assets/ab3f1cdf-4793-46b4-a712-e8aa2eb2b412" />
+
 
 *''A partir desse aprendizado e constatações, Kotter (2017) nos propõe um plano de oito passos para implementação da mudança, solucionando os erros citados anteriormente e mostrando que o papel da liderança será fundamental para o alcance dos resultados:*
 
@@ -238,7 +239,8 @@ Digitalização -> Decepção -> Disrupção -> Desmonetização -> Desmateriali
 
     
 
-![](C:\Users\vinic\AppData\Roaming\marktext\images\2026-02-24-00-25-30-image.png)
+<img width="1042" height="593" alt="2026-02-24-00-25-30-image" src="https://github.com/user-attachments/assets/7d02411f-8ee4-41d5-a62e-c355b533d3cd" />
+
 
 *''O ponto fundamental dessa abordagem é exatamente a forma de apresentar às pessoas o motivo de tudo estar sendo feito, mudado, transformado, inovado – começando com o porquê. Isso permite que as pessoas façam alinhamento de causas, de propósito e de crenças.
  Elas adotarão a mudança porque acreditam no que acreditamos e não no que está sendo apresentado para elas. É uma mudança importante e coloca as pessoas na posição de protagonistas do processo também, trabalhando com o “orgulho de autoria” que o ser humano aprecia.''*
@@ -247,7 +249,8 @@ Digitalização -> Decepção -> Disrupção -> Desmonetização -> Desmateriali
 
 Pensamento proposto por Sinek, o uso da Lei de Difusão de Inovação que Everentt Rogers:
 
-![](C:\Users\vinic\AppData\Roaming\marktext\images\2026-02-24-00-30-31-image.png)
+<img width="1042" height="643" alt="2026-02-24-00-30-31-image" src="https://github.com/user-attachments/assets/c1e83234-533f-4543-aca2-bb4419a64e13" />
+
 
 *''Em resumo, para que se atinja o sucesso em uma comunicação de massa ou se aceite uma ideia inovadora, é imprescindível alcançar esse ponto de inclinação entre 15% e 18% de engajamento, comprometimento e compromisso do público-alvo.
  A lição aqui é de liderança em um processo de inovação. De nada vai adiantar ser um grande inovador se não conseguir conquistar os adeptos, e tudo começa com os primeiros seguidores, aqueles que efetivamente farão com que a liderança seja reconhecida e o movimento de mudança seja iniciado.''*
@@ -255,3 +258,4 @@ Pensamento proposto por Sinek, o uso da Lei de Difusão de Inovação que Everen
     
 
 -> [Derek Sivers' TED Talk 'How to Start a Movement'](https://www.youtube.com/watch?v=gxFt1BZiMTw)
+
