@@ -123,7 +123,8 @@ Digitalização -> Decepção -> Disrupção -> Desmonetização -> Desmateriali
 
     
 
-<img src="file:///C:/Users/vinic/AppData/Roaming/marktext/images/2026-02-22-22-15-16-image.png" title="" alt="" width="770">
+<img width="1079" height="447" alt="2026-02-22-22-15-16-image" src="https://github.com/user-attachments/assets/c60e1dbf-8ba3-4116-8073-64984285771c" />
+
 
     
 
