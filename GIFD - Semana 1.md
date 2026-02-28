@@ -26,6 +26,10 @@ organizações.
 - REZENDE, D. A. Organizational business intelligence e software business 
   intelligence
 - SCHAEDLER, A.; MENDES, G. S. Business intelligence
+- SHARDA, R.; DELEN, D.; TURBAN, E. Business intelligence e análise de dados
+para gestão do negócio.
+- SOUSA NETO, M. V. Gestão da tecnologia da informação: sustentação e
+inovação para a transformação digital. 
 ---
 
     
@@ -258,4 +262,5 @@ Pensamento proposto por Sinek, o uso da Lei de Difusão de Inovação que Everen
     
 
 -> [Derek Sivers' TED Talk 'How to Start a Movement'](https://www.youtube.com/watch?v=gxFt1BZiMTw)
+
 
